@@ -82,6 +82,8 @@ h1 {
   letter-spacing: 0px;
   cursor: pointer;
   transition: 0.7s all;
+  color: #fff;
+  text-decoration: none;
 }
 
 .socialBtn:hover {
